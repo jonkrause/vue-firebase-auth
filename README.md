@@ -1,6 +1,6 @@
-# 004webpack
+# vue/firebase auth template
 
-> Resume builder with VueJs
+> User authentication boilerplate with firebase and vue
 
 ## Build Setup
 
